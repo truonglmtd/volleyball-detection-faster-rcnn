@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+tensorboard/
+data/volleyball/volleyball/*.jpg
+data/volleyball/volleyball/*.jpeg
+data/volleyball/volleyball/*.png
+data/volleyball/volleyball/*.txt
+!data/volleyball/volleyball/classes.txt
+trained_models/last.pt
+prediction*.jpg
+test_images/
